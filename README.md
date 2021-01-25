@@ -9,10 +9,9 @@
 
 | Таблицы       | Это                |
 | ------------- |:------------------:|
-| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png">    |
-| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_14.png"> |
+| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png"> |
+| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_14.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_15.png"> |
 
-<img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. модифікувати стартовий код таким чином, щоб метод ```Calculate``` класу ```Exercise``` містив код обчислення значення у відповідності до обраного вами завдання (у разі необхідності можна додавати до класу нові приватні методи)
 2. рядок, який виводиться у результаті виконання методу ```main``` класу ```TestResult``` теж слід скоригувати у відповідності до специфіки завдання
