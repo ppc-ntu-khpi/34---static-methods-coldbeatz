@@ -5,12 +5,15 @@
 **Шифр Цезаря** — це вид шифру підстановки, в якому кожен символ у відкритому тексті замінюється символом, що знаходяться на деякому постійному числі позицій лівіше або правіше нього в алфавіті.
 
 ----
+Клас ```Exercise```
+* **```crypt```** — Шифрує строку шифром Цезаря з заданою величиною зсуву.
+* **```decrypt```** — Розшифровує строку шифром Цезаря з заданою величиною зсуву.
+
+----
 ## Перевірка виконання програми
 | Перевірка | |
 | ------------- |:------------------:|
 | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png"> |
 | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_14.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_15.png"> |
 
-Клас ```Exercise```
-* ```crypt```
-* ```decrypt```
+
