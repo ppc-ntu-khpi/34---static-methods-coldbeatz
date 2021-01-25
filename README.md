@@ -9,8 +9,7 @@
 
 | Таблицы       | Это                | Круто |
 | ------------- |:------------------:| -----:|
-| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | выровнен вправо    | $1600 |
-| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | выровнен по центру |   $12 |
+| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png">    | $1600 |
 | зебра-строки  | прикольные         |    $1 |
 
 <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">
