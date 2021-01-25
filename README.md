@@ -7,10 +7,10 @@
 ----
 ## Перевірка виконання програми
 
-| Таблицы       | Это                | Круто |
+| Таблицы       | Это                |
 | ------------- |:------------------:| -----:|
-| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png">    | $1600 |
-| зебра-строки  | прикольные         |    $1 |
+| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">     | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png">    |
+| <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png"> |
 
 <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png">
 ## В рамках практичної роботи ви маєте зробити наступне:
