@@ -11,7 +11,7 @@
 
 ----
 ## Перевірка виконання програми
-| Перевірка | |
+| Результат | |
 | ------------- |:------------------:|
 | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_12.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_13.png"> |
 | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_14.png"> | <img src="https://github.com/ppc-ntu-khpi/34---static-methods-coldbeatz/blob/master/Screenshot_15.png"> |
